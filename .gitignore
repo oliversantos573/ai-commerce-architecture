@@ -4,8 +4,14 @@
 # VS Code
 .vscode/
 
-# macOS
+# OS files
 .DS_Store
-
-# Windows
 Thumbs.db
+
+# Build artifacts
+target/
+build/
+out/
+
+# Logs
+*.log
